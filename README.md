@@ -1,5 +1,5 @@
 # sparseRegularizers
-Generative model with different thresholding functions based on an upcoming paper
+Generative model with different thresholding functions. The associated paper with the code is : Rentzeperis, Ilias, et al. "Beyond ℓ 1 sparse coding in V1." PLoS computational biology 19.9 (2023): e1011459.
 
 
 ### Getting started
