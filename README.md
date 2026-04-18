@@ -1,6 +1,6 @@
 # sparseRegularizers
-Generative model with different thresholding functions. The associated paper with the code is : Rentzeperis, Ilias, et al. "Beyond ℓ 1 sparse coding in V1." PLoS computational biology 19.9 (2023): e1011459.
-
+Generative model with different thresholding functions. The associated paper with the code is : 
+Rentzeperis, I., Calatroni, L., Perrinet, L. U., & Prandi, D. (2023). Beyond ℓ 1 sparse coding in V1. PLoS computational biology, 19(9), e1011459. https://doi.org/10.1371/journal.pcbi.1011459
 
 ### Getting started
 install jupyter, numpy, and matplotlib
